@@ -1,0 +1,7 @@
+{
+  "mongoURL": "mongodb+srv://ukqzn:ukqzn2021@ukqznsite.bbhb8.mongodb.net/ukqznsite?retryWrites=true&w=majority",
+  "clientID": "838067617406124052",
+  "token": "ODM4MDY3NjE3NDA2MTI0MDUy.YI1tSg.OTopChu8GOgfc-1G4WmPccgWZzg",
+  "secret": "prH46NBjYk9RsHQsxCZTG9_byaZKz3ZK",
+  "callbackURL": "https://ukqzncodes.tk/callback"
+}
